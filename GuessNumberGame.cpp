@@ -67,7 +67,7 @@ void gamePlay(int value, int difficulty)
 
         if (guess == value)
         {
-            cout << "🎉 CONGRATS!! You have guessed the right value! 🎯" << endl;
+            cout << "CONGRATS!! You have guessed the right value!" << endl;
             return;
         }
         else if (guess > value)
@@ -81,7 +81,7 @@ void gamePlay(int value, int difficulty)
     }
 
     // If user runs out of tries
-    cout << "\n❌ You have run out of tries :( Restart the game to try again." << endl;
+    cout << "\n You have run out of tries :( Restart the game to try again." << endl;
     cout << "The value was " << value;
 }
 
