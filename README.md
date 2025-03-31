@@ -18,7 +18,7 @@ This is a fun and interactive **Guess the Number Game** written in C++ where the
    - Correct 
 5. The game ends when the user guesses the correct number or runs out of tries.
 
-IMPORTANT: Porject idea from https://roadmap.sh/projects/number-guessing-game
+IMPORTANT: Project idea from https://roadmap.sh/projects/number-guessing-game
 ---
 
 ## 
